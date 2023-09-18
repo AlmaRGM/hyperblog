@@ -1,4 +1,2 @@
-Esta es la historia
-.
-18 años
-Hablaremos de su vida y de su obra
+Esta es 
+Primer commit de vida
